@@ -8,10 +8,69 @@
         },
         {
             "sliderid": "2",
-            "sliderimg": "https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/448045480_1114520052983510_7378772485678654535_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHTDE-FSXBgboDTVEuLaQidxkPVANiIGp3GQ9UA2IgancZhXxt1jVPOMz42LVLVru1JAu9oVa2mO0yTUbLSWiCR&_nc_ohc=f2PdwkhslWEQ7kNvgH_FS2W&_nc_ht=scontent.fhan20-1.fna&oh=00_AYDlcITjjI59Jh3dO37sZ7w5Lb4VdAQpFRwerv2e30CQkg&oe=667C2A5F",
+            "sliderimg": "https://res.cloudinary.com/dzkzebsn7/image/upload/v1718700621/slider99_amuwc6.jpg",
             "sliderslug": "",
             "sliderlink": "https://www.facebook.com/young.da4real"
+        },
+        {
+            "sliderid": "3",
+            "sliderimg": "https://res.cloudinary.com/dzkzebsn7/image/upload/v1718700621/slider2_xdy8sa.jpg",
+            "sliderslug": "the-avengers-biet-doi-sieu-anh-hung",
+            "sliderlink": ""
+        },
+        {
+            "sliderid": "4",
+            "sliderimg": "https://res.cloudinary.com/dzkzebsn7/image/upload/v1718700620/slider3_djhp71.jpg",
+            "sliderslug": "captain-marvel-dai-uy-marvel",
+            "sliderlink": ""
+        },
+        {
+            "sliderid": "5",
+            "sliderimg": "https://res.cloudinary.com/dzkzebsn7/image/upload/v1718700620/slider4_czcsyf.jpg",
+            "sliderslug": "the-gioi-bi-an",
+            "sliderlink": ""
+        },
+        {
+            "sliderid": "6",
+            "sliderimg": "https://res.cloudinary.com/dzkzebsn7/image/upload/v1718700620/slider5_fho1lb.jpg",
+            "sliderslug": "avatar-dong-chay-cua-nuoc",
+            "sliderlink": ""
+        },
+        {
+            "sliderid": "7",
+            "sliderimg": "https://res.cloudinary.com/dzkzebsn7/image/upload/v1718700620/slider6_f1qsbj.jpg",
+            "sliderslug": "anh-trang",
+            "sliderlink": ""
+        },
+        {
+            "sliderid": "8",
+            "sliderimg": "https://res.cloudinary.com/dzkzebsn7/image/upload/v1718700621/slider7_a6c6ht.jpg",
+            "sliderslug": "lac-vao-xu-oz-vi-dai-quyen-nang",
+            "sliderlink": ""
+        },
+        {
+            "sliderid": "9",
+            "sliderimg": "https://res.cloudinary.com/dzkzebsn7/image/upload/v1718700621/slider8_xtbsnj.jpg",
+            "sliderslug": "hanh-tinh-cat",
+            "sliderlink": ""
+        },
+        {
+            "sliderid": "10",
+            "sliderimg": "https://res.cloudinary.com/dzkzebsn7/image/upload/v1718700621/slider9_wsvycz.jpg",
+            "sliderslug": "alice-o-xu-so-than-tien-2010",
+            "sliderlink": ""
+        },
+        {
+            "sliderid": "11",
+            "sliderimg": "https://res.cloudinary.com/dzkzebsn7/image/upload/v1718700621/slider10_htopv5.jpg",
+            "sliderslug": "cau-be-rung-xanh-2016",
+            "sliderlink": ""
+        },
+        {
+            "sliderid": "12",
+            "sliderimg": "https://res.cloudinary.com/dzkzebsn7/image/upload/v1718700623/slider11_nba4df.webp",
+            "sliderslug": "chung-ta",
+            "sliderlink": ""
         }
     ]
-    
 }
